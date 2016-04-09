@@ -1,2 +1,1 @@
- 
- Coding practice!
+Coding practice!
